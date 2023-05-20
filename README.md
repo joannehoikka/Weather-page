@@ -31,8 +31,8 @@ Using a 3rd party library like Chart.js, visualize the data of the specific meas
 
 PHASE 3
 On view 2 and view 3 display the following statistical information for the last 20 values:
-1. Mean: The mean is the average of all the data points. It provides an overall picture of the data and can be useful in identifying trends over time.
-2. Median: The median is the middle value of the data set. It is useful in identifying outliers or extreme values that may skew the mean.
-3. Mode: The mode is the value that occurs most frequently in the data set. It can be useful in identifying the most common weather condition for the measurement.
-4. Range: The range is the difference between the maximum and minimum values in the data set. It provides an idea of the variability of the data.
-5. Standard deviation: The standard deviation measures the spread of the data around the mean. It provides an idea of the variability of the data and how closely the data points cluster around the mean.
+1. Mean
+2. Median
+3. Mode
+4. Range
+5. Standard deviation
